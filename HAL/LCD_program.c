@@ -1,10 +1,4 @@
-/*
- * LCD_program.c
 
- *
- *  Created on: Oct 16, 2021
- *      Author: TOP
- */
 #include <string.h>
 #include <util/delay.h>
 #include "STD_TYPES.h"

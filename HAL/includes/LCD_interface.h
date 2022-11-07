@@ -1,9 +1,4 @@
-/*
- * LCD_interface.h
- *
- *  Created on: Oct 16, 2021
- *      Author: TOP
- */
+
 
 
 #ifndef LCD_INTERFACE_H_

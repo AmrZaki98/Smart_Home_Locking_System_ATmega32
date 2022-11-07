@@ -1,9 +1,3 @@
-/*
- * EEPROM_interface.h
- *
- *  Created on: Mar 25, 2022
- *      Author: TOP
- */
 
 #ifndef EEPROM_INTERFACE_H_
 #define EEPROM_INTERFACE_H_

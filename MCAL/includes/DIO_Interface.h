@@ -1,9 +1,4 @@
-/*
- * DIO_Interface.h
- *
- *  Created on: Oct 15, 2021
- *      Author: gerges
- */
+
 
 #ifndef DIO_INTERFACE_H_
 #define DIO_INTERFACE_H_

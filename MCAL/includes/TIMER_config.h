@@ -1,9 +1,4 @@
-/*
- * TIMER_config.h
- *
- *  Created on: Nov 15, 2021
- *      Author: TOP
- */
+
 
 #ifndef TIMER_CONFIG_H_
 #define TIMER_CONFIG_H_

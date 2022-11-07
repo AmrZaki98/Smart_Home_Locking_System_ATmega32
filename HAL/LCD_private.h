@@ -1,9 +1,3 @@
-/*
- * LCD_private.h
- *
- *  Created on: Oct 16, 2021
- *      Author: TOP
- */
 
 #ifndef LCD_PRIVATE_H_
 #define LCD_PRIVATE_H_

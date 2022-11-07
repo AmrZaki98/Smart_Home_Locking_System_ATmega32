@@ -1,9 +1,4 @@
-/*
- * LockMagnetConfig.h
- *
- *  Created on: Nov 7, 2022
- *      Author: TOP
- */
+
 
 #ifndef LOCKMAGNETCONFIG_H_
 #define LOCKMAGNETCONFIG_H_

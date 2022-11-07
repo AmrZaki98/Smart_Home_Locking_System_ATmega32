@@ -1,9 +1,3 @@
-/*
- * I2C_private.h
- *
- *  Created on: Mar 25, 2022
- *      Author: TOP
- */
 
 #ifndef I2C_PRIVATE_H_
 #define I2C_PRIVATE_H_

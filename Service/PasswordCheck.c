@@ -1,9 +1,4 @@
-/*
- * PasswordCheck.c
- *
- *  Created on: Nov 3, 2022
- *      Author: TOP
- */
+
 
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"

@@ -1,9 +1,4 @@
-/*
- * TIMER_private.h
- *
- *  Created on: Nov 15, 2021
- *      Author: TOP
- */
+
 
 #ifndef TIMER_PRIVATE_H_
 #define TIMER_PRIVATE_H_

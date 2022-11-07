@@ -1,9 +1,4 @@
-/*
- * PsswordCheckPrivate.h
- *
- *  Created on: Nov 4, 2022
- *      Author: TOP
- */
+
 
 #ifndef PSSWORDCHECKPRIVATE_H_
 #define PSSWORDCHECKPRIVATE_H_

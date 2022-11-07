@@ -1,9 +1,3 @@
-/*
- * DisplayMngr.c
- *
- *  Created on: Nov 5, 2022
- *      Author: TOP
- */
 
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"

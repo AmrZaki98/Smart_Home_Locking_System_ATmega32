@@ -1,9 +1,3 @@
-/*
- * I2C_interface.h
- *
- *  Created on: Mar 25, 2022
- *      Author: TOP
- */
 
 #ifndef I2C_INTERFACE_H_
 #define I2C_INTERFACE_H_

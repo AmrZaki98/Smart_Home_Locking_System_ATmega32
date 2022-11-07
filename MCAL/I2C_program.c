@@ -1,9 +1,3 @@
-/*
- * I2C_program.c
- *
- *  Created on: Mar 25, 2022
- *      Author: TOP
- */
 
 #include "STD_TYPES.h"
 #include "BIT_MATH.h"

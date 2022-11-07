@@ -1,9 +1,4 @@
-/*
- * main.c
- *
- *  Created on: Oct 22, 2021
- *      Author: gerges
- */
+
 
 #include"STD_TYPES.h"
 #include"DIO_Interface.h"

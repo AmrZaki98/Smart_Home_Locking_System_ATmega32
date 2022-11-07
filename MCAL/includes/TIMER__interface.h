@@ -1,9 +1,4 @@
-/*
- * TIMER__interface.h
- *
- *  Created on: Nov 15, 2021
- *      Author: TOP
- */
+
 
 #ifndef TIMER__INTERFACE_H_
 #define TIMER__INTERFACE_H_

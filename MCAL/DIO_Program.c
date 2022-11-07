@@ -1,9 +1,3 @@
-/*
- * DIO_Program.c
- *
- *  Created on: Oct 15, 2021
- *      Author: gerges
- */
 
 #include"STD_TYPES.h"
 #include"BIT_MATH.h"

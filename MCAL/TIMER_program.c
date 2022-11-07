@@ -1,9 +1,3 @@
-/*
- * TIMER_program.c
- *
- *  Created on: Nov 15, 2021
- *      Author: TOP
- */
 
 
 #include "STD_TYPES.h"

@@ -1,9 +1,4 @@
-/*
- * PasswordCheck.h
- *
- *  Created on: Nov 3, 2022
- *      Author: TOP
- */
+
 
 #ifndef PASSWORDCHECK_H_
 #define PASSWORDCHECK_H_

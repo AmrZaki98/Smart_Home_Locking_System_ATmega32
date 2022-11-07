@@ -1,9 +1,4 @@
-/*
- * DisplayMngr.h
- *
- *  Created on: Nov 5, 2022
- *      Author: TOP
- */
+
 
 #ifndef DISPLAYMNGR_H_
 #define DISPLAYMNGR_H_

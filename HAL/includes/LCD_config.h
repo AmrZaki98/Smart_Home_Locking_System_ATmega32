@@ -1,9 +1,4 @@
-/*
- * LCD_config.h
- *
- *  Created on: Oct 16, 2021
- *      Author: TOP
- */
+
 
 #ifndef LCD_CONFIG_H_
 #define LCD_CONFIG_H_
