@@ -19,3 +19,7 @@
      * LCD display task:  Take any message in the display queue and calls the display manager APIs to print it on the LCD
      * SecurityStateMachine: This task implements the state flow above to control the magnet and the LCD display by calling the appropriate APIs.
  * The tasks of the system are scheduled using freeRTOS.
+
+## The layered architecture of the system is:
+
+![layered architecture](https://user-images.githubusercontent.com/90519613/200653531-5db7cd4f-aeba-4d43-8287-14d4b658fa3f.PNG)
