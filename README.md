@@ -10,4 +10,4 @@
 3. Unlocked state: In case the password is written correctly by the user, the system will go to the unlocked state. In this state, the magnet will be off, and the door could be opened.
 4. Update password: In case the user wants to update the password stored in the EEPROM, the system will enter this state. This is a parent state having two smaller ones in it:
       * The First password state: This is the one entered when a change password request is made. In this state, the user needs to enter the new password.
-      * The second password state: After the user enters the new password, they need to verify it by typing it again.
+      * The second password state: After the user enters the new password, they need to verify it by typing it again. This state is responsible to request the password verfication.
