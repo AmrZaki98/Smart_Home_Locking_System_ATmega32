@@ -13,5 +13,9 @@
       * The second password state: After the user enters the new password, they need to verify it by typing it again. This state is responsible to request the password verfication.
 
 
-### Note:
+### Notes:
  * Any message displayed has a content, which is a string required to be printed on the LCD, and a time out, which is the time between displaying the message on the screen and clearing it.
+ * The system has two tasks:
+     * LCD display task:  Take any message in the display queue and calls the display manager APIs to print it on the LCD
+     * SecurityStateMachine: This task implements the state flow above to control the magnet and the LCD display by calling the appropriate APIs.
+ * The tasks of the system are scheduled using freeRTOS.
