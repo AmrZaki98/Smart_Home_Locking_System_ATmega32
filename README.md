@@ -22,4 +22,5 @@
 
 ## The layered architecture of the system is:
 
-![layered architecture](https://user-images.githubusercontent.com/90519613/200653531-5db7cd4f-aeba-4d43-8287-14d4b658fa3f.PNG)
+
+![layered architecture](https://user-images.githubusercontent.com/90519613/200653944-fa323c50-b2ff-49cf-919f-756bb6458966.PNG)
