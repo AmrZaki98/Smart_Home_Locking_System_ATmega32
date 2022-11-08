@@ -5,3 +5,4 @@
 
 ### The states of the system are:
 
+1. Locked state
