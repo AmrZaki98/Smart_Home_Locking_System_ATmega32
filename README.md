@@ -11,3 +11,7 @@
 4. Update password: In case the user wants to update the password stored in the EEPROM, the system will enter this state. This is a parent state having two smaller ones in it:
       * The First password state: This is the one entered when a change password request is made. In this state, the user needs to enter the new password.
       * The second password state: After the user enters the new password, they need to verify it by typing it again. This state is responsible to request the password verfication.
+
+
+### Note:
+ * Any message displayed has a content, which is a string required to be printed on the LCD, and a time out, which is the time between displaying the message on the screen and clearing it.
